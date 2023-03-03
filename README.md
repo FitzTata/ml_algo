@@ -1,2 +1,2 @@
 # ml_algo
-Ml algorithms with pure python (numpy, pandas), without sklearn builtins
+Ml algorithms from scratch with pure python (numpy, pandas), without sklearn builtins
